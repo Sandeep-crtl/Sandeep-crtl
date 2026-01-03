@@ -87,6 +87,6 @@ If you’re building something data-driven and need clarity instead of charts-fo
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB6dDJtcHF3eTRrNGY1a3Y0Z2t4OXl5b2FhODNodW83bG9wZ2FpYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZvZjloemM2NXNxZnQ4eWEyZHA3ZHg1Z25zbzdoeDR0ZW1lcTU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
 </p>
 
