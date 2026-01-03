@@ -29,7 +29,7 @@ I don’t build dashboards for decoration — I build them to **answer real busi
 🔹 **Spotify Insights**  
 Analyzing user listening behavior, trends, and artist performance using Python & SQL.
 
-🔹 **Atliq Insights **  
+🔹 **Atliq Insights**  
 Business intelligence project focused on revenue, sales performance, and decision support.
 
 🔹 **Uber Analytics Project**  
